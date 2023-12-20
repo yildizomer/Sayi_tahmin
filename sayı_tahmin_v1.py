@@ -5,7 +5,7 @@ print("""***********************
 
 Sayı Tahmin Oyunu.
 
-GitHub: o1geliyo
+GitHub: yildizomer.py
 
 1 ile 50 arasında bir sayı.
 
