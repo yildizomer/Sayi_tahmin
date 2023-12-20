@@ -7,7 +7,7 @@ print("""****************************
 
  Yapımcı: Ömer Faruk Yıldız.
 
- GitHub: o1geliyo
+ GitHub: yildizomer.py
 
  Zorluk: Zor-Kolay
 
